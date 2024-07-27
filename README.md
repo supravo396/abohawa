@@ -1,4 +1,6 @@
 ROY WEATHER APP
+
+
 Roy Weather App is a simple Python GUI application that displays weather information for Indian states and territories using the OpenWeatherMap API.
 
 FEATURES
